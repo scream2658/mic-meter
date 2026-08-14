@@ -40,7 +40,7 @@ python mic_meter.py
 
 已打包为单文件可执行程序，无需安装 Python 即可运行：
 
-[下载 麦克风声强显示器-V0.0.14.exe](https://github.com/scream2658/mic-meter/releases/download/V0.0.14/麦克风声强显示器-V0.0.14.exe)
+[下载 MicLevelMeter-V0.0.14.exe](https://github.com/scream2658/mic-meter/releases/download/V0.0.14/MicLevelMeter-V0.0.14.exe)
 
 （Windows 10/11 64 位；首次启动约 2~3 秒解压，属正常现象）
 
